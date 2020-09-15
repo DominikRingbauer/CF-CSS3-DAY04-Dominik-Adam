@@ -16,9 +16,6 @@
 
   img {
     width: 60vh; } }
-img {
-  width: 60vh; }
-
 #container01 {
   display: flex;
   justify-content: space-around; }
